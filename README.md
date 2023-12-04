@@ -1,5 +1,5 @@
 # General Store Online Sales Dashboard
-![GENERAL ECOMMERCE SALES DASHBOARD](https://github.com/meabhaykr/General-Store-Online-Sales-Dashboard/blob/main/Image/GENERAL%20ECOMMERCE%20SALES%20DASHBOARD.png)
+![GENERAL ECOMMERCE SALES DASHBOARD](https://github.com/meabhaykr/General-Store-Online-Sales-Dashboard-Using-PowerBi/blob/main/Image/GENERAL%20ECOMMERCE%20SALES%20DASHBOARD.png)
 
 ## Introduction
 
